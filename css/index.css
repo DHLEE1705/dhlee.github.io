@@ -412,20 +412,19 @@ ul{
     #middle{
         height:950px;
     }
-    #description,#description2,#description3,#description4,#description5{
-        width:310px;
-        text-align:center;
-        margin-left:10px;
-        clear:both;
-        margin-top:15px;
-    }
-    #left,#left2,#left3,#left4,#left5{
-        margin-top:25px; 
-        margin-left:115px;
-    } 
     #table{
+        width:320px;
         height:1160px;
         border:none;
+    }
+    #icon,#icon2,#icon3,#icon4,#icon5{
+        margin-left:50px;        
+    }
+    #description, #description2, #description3, #description4, #description5{
+        clear:both;
+        text-align: center;
+        margin-left:0px;
+        width:310px;
     }
     #bottom{
         height:1350px;
