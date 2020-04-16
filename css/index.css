@@ -395,7 +395,7 @@ ul{
 #skillspan{
     color:#FA5882;
 }
-@media screen and (min-width:320px) and (max-width:430px) {
+@media screen and (min-width:320px) and (max-width:468px) {
     #tapMenu{
         width:320px;
     }
@@ -472,7 +472,7 @@ ul{
     
 
 }
-@media screen and (min-width:431px) and (max-width:768px) {
+@media screen and (min-width:469px) and (max-width:768px) {
     #p2{
         width:360px;
         height:800px;
