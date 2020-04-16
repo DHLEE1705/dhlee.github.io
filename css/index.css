@@ -9,7 +9,6 @@
     font-family: 'Do Hyeon', sans-serif;
 }
 body{
-    background-color:red;
     overflow-x:hidden; overflow-y: auto;
 }
 a{
@@ -222,7 +221,7 @@ ul{
     margin-top:30px;
     width:850px;
     float:left;
-    margin-left:70px;   
+    margin-left:70px;
 }
 #description6{
     font-weight:bold;
@@ -414,13 +413,11 @@ ul{
         height:950px;
     }
     #description,#description2,#description3,#description4,#description5{
-        width:315px;
+        width:310px;
         margin:0 auto;
-        margin-top:20px;
         clear:both;
     }
-    #left,#left2,#left3,#left4,#left5{ 
-        margin-left:100px;
+    #left,#left2,#left3,#left4,#left5{
         margin-top:20px; 
     } 
     #table{
