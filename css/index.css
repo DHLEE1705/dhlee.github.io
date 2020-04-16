@@ -414,11 +414,14 @@ ul{
     }
     #description,#description2,#description3,#description4,#description5{
         width:310px;
-        margin:0 auto;
+        text-align:center;
+        margin-left:10px;
         clear:both;
+        margin-top:15px;
     }
     #left,#left2,#left3,#left4,#left5{
-        margin-top:20px; 
+        margin-top:25px; 
+        margin-left:115px;
     } 
     #table{
         height:1160px;
