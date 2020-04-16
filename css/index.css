@@ -394,7 +394,81 @@ ul{
 #skillspan{
     color:#FA5882;
 }
-@media screen and (min-width:320px) and (max-width:768px) {
+@media screen and (min-width:320px) and (max-width:359px) {
+    #tapMenu{
+        left:0px;
+        width:320px;
+    }
+    .tap{
+        padding:10px;
+        font-size:15px;
+    }
+    #welcome,#blog{
+        font-size:30px;
+    }
+    #p2{
+        width:310px;
+    }
+    #middle{
+        height:950px;
+    }
+    #description,#description2,#description3,#description4,#description5{
+        margin:10px;
+        width:290px;
+        clear:both;
+    }
+    
+    #left,#left2,#left3,#left4,#left5{
+        position: relative;
+        left:55px;
+        width:100px;
+    }
+    #table{
+        border:none;
+    }
+    #bottom{
+        height:1500px;
+    }
+    #imgg,#soloimg{
+        width:320px;
+    }
+    #descrip{
+        width:320px;
+        clear:both;
+    }
+    #projectname{
+      float:left;
+      margin-left:80px;
+      font-size:20px;
+    }
+    #wrap,#wrap2{
+        width:320px;
+       
+    }
+    #info,#info2{
+        font-size:15px;
+        margin-left:5px;
+        width:310px;
+    }
+    #demo,#repos{
+        position: relative;
+        top:20px;
+        margin-left:30px;
+        font-size:20px;
+    }
+    .jobs{
+     position: relative;
+     left:40px;
+    }
+    #email,#phone{
+        margin-top:30px;
+        font-size:15px;
+        width:320px;
+    }
+    
+
+}
+@media screen and (min-width:360px) and (max-width:768px) {
     #p2{
         width:360px;
         height:800px;
