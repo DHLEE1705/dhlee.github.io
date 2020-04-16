@@ -415,7 +415,7 @@ ul{
     }
     #description,#description2,#description3,#description4,#description5{
         margin-top:10px;
-        margin-left:0px;
+        margin:0 auto;
         text-align:center;
         width:310px;
         clear:both;
@@ -424,11 +424,10 @@ ul{
         width:310px;
     }
     #left,#left2,#left3,#left4,#left5{ 
-        margin-left:100px;
-        margin-top:20px; 
+         margin-top:20px; 
+        margin:0 auto;
     }
     #table{
-        background-color:red;
         height:1160px;
         border:none;
     }
